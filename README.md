@@ -3,7 +3,6 @@
 ### Olá eu sou o natanael 👋
 
 
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-sim%C3%A3o-5407a9236/)
 
 
